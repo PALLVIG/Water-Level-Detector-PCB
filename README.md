@@ -3,7 +3,7 @@
 ## Overview
 This project is a water level detector built on a PCB. Using the circuit design, I placed all the components on the board, soldered them and tested the water detection. An LM358 op-amp works as a comparator. It compares the sensor signal with a reference voltage set by a trimmer pot. When the water level is detected, the output LED turns on and the relay switches.
 
-![Water Level Detector Board](board.jpg)
+![Water Level Detector Board](board.jpeg)
 
 ## Features
 - Water level detection using an LM358 comparator
